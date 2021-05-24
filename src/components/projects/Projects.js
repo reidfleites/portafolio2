@@ -5,8 +5,8 @@ function Projects() {
     <div className="main main-pro">
       <div>
         <p>
-          I'm learning web-design and web-devolopment. Here are some of
-          my recent proyects...
+          I'm learning web-design and web-devolopment. Here are some of my
+          recent proyects...
         </p>
       </div>
       <div className="projects">
@@ -20,7 +20,13 @@ function Projects() {
                 <div className="flip-card-back">
                   <h3>Onlineshop</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="https://meinersteonlineshop.netlify.app/" target="_blank">Showonline</a>
+                  <a
+                    href="https://meinersteonlineshop.netlify.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Showonline
+                  </a>
                 </div>
               </div>
             </div>
@@ -32,13 +38,19 @@ function Projects() {
                 <div className="flip-card-back">
                   <h3>Songdatabase</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">Showonline</a>
+                  <a
+                    href="https://songdatabase.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Showonline
+                  </a>
                 </div>
               </div>
             </div>
           </div>
           <div className="row-tablet">
-          <div className="proy flip-card">
+            <div className="proy flip-card">
               <div className="flip-card-inner">
                 <div className="flip-card-front foto3">
                   <div className="rojo"></div>
@@ -46,7 +58,7 @@ function Projects() {
                 <div className="flip-card-back">
                   <h3>Cuba-hostals</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">in process</a>
+                  <span>in process</span>
                 </div>
               </div>
             </div>
@@ -56,9 +68,9 @@ function Projects() {
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>Project4</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">inprocess...</a>
+                  <span>inprocess...</span>
                 </div>
               </div>
             </div>
@@ -67,15 +79,15 @@ function Projects() {
 
         <div className="pro row2">
           <div className="row-tablet">
-          <div className="proy flip-card">
+            <div className="proy flip-card">
               <div className="flip-card-inner">
                 <div className="flip-card-front inprocess">
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>Project5</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">inprocess...</a>
+                  <span>inprocess...</span>
                 </div>
               </div>
             </div>
@@ -85,24 +97,24 @@ function Projects() {
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>Project6</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">inprocess...</a>
+                  <span>inprocess...</span>
                 </div>
               </div>
             </div>
           </div>
 
           <div className="row-tablet">
-          <div className="proy flip-card">
+            <div className="proy flip-card">
               <div className="flip-card-inner">
                 <div className="flip-card-front inprocess">
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>Project7</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">inprocess...</a>
+                  <span>inprocess...</span>
                 </div>
               </div>
             </div>
@@ -112,9 +124,9 @@ function Projects() {
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>Project8</h3>
                   <h3>Interactive app in React</h3>
-                  <a href="#">inprocess...</a>
+                  <span>inprocess...</span>
                 </div>
               </div>
             </div>

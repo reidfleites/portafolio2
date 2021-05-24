@@ -187,7 +187,7 @@ body{
   transform: rotateY(180deg);
 }
 
-/* Position the front and back side */
+
 .flip-card-front, .flip-card-back {
   position: absolute;
   background-color: white;
@@ -198,7 +198,7 @@ body{
   backface-visibility: hidden;
 }
 
-/* Style the front side (fallback if image is missing) */
+
 .flip-card-front {
   background-image: url("./images/shp2.jpg");
   background-size: cover;
@@ -219,10 +219,10 @@ body{
   background-image: url("./images/inprocess.jpg");
 }
 
-/* Style the back side */
+
 .flip-card-back {
   
-  /* color: white; */
+  
   transform: rotateY(180deg);
 }
 
@@ -382,7 +382,7 @@ p{
  .container {
   
   width:50vw;
-  background-color:white; /* Grey background */
+  background-color:white; 
   border: 1px solid white;
   border-radius: 2rem;
   margin:auto;
@@ -394,8 +394,8 @@ p{
 
 
   .skills {
-    text-align: right; /* Right-align text */
-    color:white; /* White text color */
+    text-align: right; 
+    color:white; 
     border:none;
     height:49px;
    
@@ -879,5 +879,8 @@ p{
 }
 .main-pro{
   height: 100%;
+}
+.main-contacts{
+  justify-content: center;
 }
 }

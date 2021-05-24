@@ -49,22 +49,22 @@ function Aside() {
         <div className="footer">
           <ul className="icons-menu">
             <li>
-              <a href="#">
+              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" >
                 <TiSocialTwitter className="icon-twitter icon" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" >
                 <TiSocialInstagram className="icon-instagram icon" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://www.facebook.com/" target="blank" rel="noopener noreferrer" >
                 <TiSocialFacebook className="icon-facebook icon" />
               </a>
             </li>
             <li>
-              <a href="https://github.com/reidfleites?tab=repositories" target="_blank">
+              <a href="https://github.com/reidfleites?tab=repositories" target="_blank" rel="noopener noreferrer" >
                 <AiFillGithub className="icon-github icon" />
               </a>
             </li>
