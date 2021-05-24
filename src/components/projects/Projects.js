@@ -5,7 +5,7 @@ function Projects() {
     <div className="main main-pro">
       <div>
         <p>
-          I'm learning web-design and web-devolopment. Here are some of my
+          I'm learning web-design and web-development. Here are some of my
           recent proyects...
         </p>
       </div>
