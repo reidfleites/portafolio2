@@ -670,7 +670,7 @@ button:hover .icon-send{
   }
   .aside{
     width: 100vw;
-    background-color: rgb(255, 81, 0);
+    background-color: red;
     background-image: none;
     margin:0;
   }
