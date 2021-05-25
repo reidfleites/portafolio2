@@ -6,7 +6,7 @@ function Projects() {
       <div>
         <p>
           I'm learning web-design and web-development. Here are some of my
-          recent proyects...
+          recent projects...
         </p>
       </div>
       <div className="projects">

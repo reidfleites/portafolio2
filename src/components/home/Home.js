@@ -8,7 +8,7 @@ function Home() {
         <h2>Web-Development Student in DCI</h2>
          <div className="boton boton-start">
           <Link className="nav--link" to="/projects">
-            <strong>Seht mehr</strong>
+            <strong>See more</strong>
           </Link>
         </div>
       </div>
