@@ -19,7 +19,7 @@ function Projects() {
                 </div>
                 <div className="flip-card-back">
                   <h3>ChatApp</h3>
-                  <h3>Interactive app in React</h3>
+                  <h3>Backend und Frontend React app</h3>
                   <a
                     href="https://4-chatapp.netlify.app"
                     target="_blank"
