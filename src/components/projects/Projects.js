@@ -18,10 +18,10 @@ function Projects() {
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Onlineshop</h3>
+                  <h3>ChatApp</h3>
                   <h3>Interactive app in React</h3>
                   <a
-                    href="https://meinersteonlineshop.netlify.app/"
+                    href="https://https://4-chatapp.netlify.app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -36,10 +36,10 @@ function Projects() {
                   <div className="rojo"></div>
                 </div>
                 <div className="flip-card-back">
-                  <h3>Songdatabase</h3>
+                  <h3>Dicctionary</h3>
                   <h3>Interactive app in React</h3>
                   <a
-                    href="https://songdatabase.vercel.app/"
+                    href="https://dictionary-api-projekt.netlify.app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
