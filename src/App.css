@@ -535,7 +535,7 @@ button:hover .icon-send{
   animation:bigcss 3s;
 } 
 .js {
-  width: 40%; 
+  width: 90%; 
   background-color:red;
   border-radius: 2rem;
   text-align: center;
@@ -549,7 +549,7 @@ button:hover .icon-send{
    animation:bigjava 3s;
   }
 .sql{
-  width: 70%;
+  width: 80%;
    background-color:red;
    border-radius:2rem; 
    text-align:center;

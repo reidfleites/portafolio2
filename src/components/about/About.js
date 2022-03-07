@@ -25,7 +25,7 @@ function About() {
             <p>JavaScript</p>
             <div className="container">
               <div className="skills js">
-                <strong>40%</strong>
+                <strong>90%</strong>
               </div>
             </div>
 
@@ -38,7 +38,7 @@ function About() {
             <p>SQL</p>
             <div className="container">
               <div className="skills sql">
-                <strong>70%</strong>
+                <strong>80%</strong>
               </div>
             </div>
           </div>
