@@ -21,7 +21,7 @@ function Projects() {
                   <h3>ChatApp</h3>
                   <h3>Interactive app in React</h3>
                   <a
-                    href="https://https://4-chatapp.netlify.app"
+                    href="https://4-chatapp.netlify.app"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
